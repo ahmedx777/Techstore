@@ -1,59 +1,74 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <a href="https://github.com/ton-compte/TechStore" target="_blank">
+    <img src="https://img.icons8.com/color/452/electronics.png" width="400" alt="TechStore Logo">
+  </a>
 </p>
 
-## About Laravel
+<p align="center">
+  <a href="https://github.com/ton-compte/TechStore/actions">
+    <img src="https://github.com/ton-compte/TechStore/workflows/tests/badge.svg" alt="Build Status">
+  </a>
+  <a href="https://github.com/ton-compte/TechStore">
+    <img src="https://img.shields.io/github/stars/ton-compte/TechStore" alt="Stars">
+  </a>
+  <a href="https://github.com/ton-compte/TechStore/releases">
+    <img src="https://img.shields.io/github/v/release/ton-compte/TechStore" alt="Latest Stable Version">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/github/license/ton-compte/TechStore" alt="License">
+  </a>
+</p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+---
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 🛒 About TechStore
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+**TechStore** est une application moderne de boutique en ligne dédiée aux produits technologiques.  
+Elle offre une expérience fluide, sécurisée et évolutive pour les utilisateurs comme pour les administrateurs.
 
-## Learning Laravel
+### ✨ Fonctionnalités
+- 📦 Gestion des produits (ajout, modification, suppression, recherche).
+- 👤 Gestion des utilisateurs avec rôles (admin/client).
+- 💳 Paiement sécurisé via passerelles modernes.
+- 📊 Tableau de bord avec statistiques en temps réel.
+- 🌐 Interface responsive et intuitive.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+---
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## 📚 Documentation & Learning
 
-## Laravel Sponsors
+La documentation complète est disponible dans le dossier [`docs/`](docs).  
+Tu peux également consulter des tutoriels et guides pratiques pour apprendre à utiliser TechStore efficacement.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+---
 
-### Premium Partners
+## 🤝 Contributing
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+Merci de considérer une contribution à **TechStore** !  
+Le guide de contribution est disponible dans [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
-## Contributing
+1. Fork le projet  
+2. Crée une branche (`git checkout -b feature/ma-feature`)  
+3. Commit tes changements (`git commit -m 'Ajout de ma feature'`)  
+4. Push la branche (`git push origin feature/ma-feature`)  
+5. Ouvre une Pull Request  
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+---
 
-## Code of Conduct
+## 🔒 Security Vulnerabilities
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Si tu découvres une faille de sécurité dans TechStore, merci d’envoyer un e‑mail à **Ahmed** via [ton.email@example.com](mailto:ton.email@example.com).  
+Toutes les vulnérabilités seront traitées rapidement.
 
-## Security Vulnerabilities
+---
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## 📜 License
 
-## License
+TechStore est un logiciel open-source sous licence [MIT](https://opensource.org/licenses/MIT).
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+---
+
+## 👨‍💻 Author
+
+Développé par **Ahmed**  
+🌐 GitHub : [https://github.com/ton-compte](https://github.com/ton-compte)
