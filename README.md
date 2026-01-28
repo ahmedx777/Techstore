@@ -1,25 +1,3 @@
-<p align="center">
-  <a href="https://github.com/ton-compte/TechStore" target="_blank">
-    <img src="https://img.icons8.com/color/452/electronics.png" width="400" alt="TechStore Logo">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ton-compte/TechStore/actions">
-    <img src="https://github.com/ton-compte/TechStore/workflows/tests/badge.svg" alt="Build Status">
-  </a>
-  <a href="https://github.com/ton-compte/TechStore">
-    <img src="https://img.shields.io/github/stars/ton-compte/TechStore" alt="Stars">
-  </a>
-  <a href="https://github.com/ton-compte/TechStore/releases">
-    <img src="https://img.shields.io/github/v/release/ton-compte/TechStore" alt="Latest Stable Version">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/github/license/ton-compte/TechStore" alt="License">
-  </a>
-</p>
-
----
 
 ## 🛒 About TechStore
 
