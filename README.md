@@ -23,4 +23,4 @@ Toutes les vulnérabilités seront traitées rapidement.
 ## 👨‍💻 Author
 
 Développé par **Ahmed**  
-🌐 GitHub : [https://github.com/ton-compte](https://github.com/ahmedx777)
+🌐 GitHub :https://github.com/ahmedx777
